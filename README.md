@@ -1,10 +1,13 @@
-# Weather-forecasting-using-machine-learning-
+## Weather-forecasting-using-machine-learning-
 
 
 
 
 Data Source: Greece, Athens, meteo.gr, 2009-2016
-Data Description:
+
+```
+
+Data Description
 
 Dataset: athens_09-16
 
@@ -27,3 +30,4 @@ cool: cooling degree days
 rainmm: rainfall measured in millimeters
 meanspeed: daily mean wind speed
 maxspeed: daily maximum wind speed
+```

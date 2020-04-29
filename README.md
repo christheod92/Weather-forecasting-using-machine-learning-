@@ -25,6 +25,7 @@ Dataset: athens_2017
 - meanspeed: daily mean wind speed
 - maxspeed: daily maximum wind speed
 
+Data Source: Greece, Athens, meteo.gr, 2009-2016
 
 **Machine learning methods**
 
@@ -41,5 +42,5 @@ Dataset: athens_2017
     - Evaluation Metrics: Accuracy
     
     
-Data Source: Greece, Athens, meteo.gr, 2009-2016
+
 

@@ -5,7 +5,7 @@
 
 Dataset: athens_09-16
 
-- month:[1-12]
+- month: [1-12]
 - maxtemp: daily maximum air temperature
 - mintemp: daily minimum air temperature
 - heat: heating degree days
@@ -16,7 +16,7 @@ Dataset: athens_09-16
 
 Dataset: athens_2017
 
-- month:[1-12]
+- month: [1-12]
 - maxtemp: daily maximum air temperature
 - mintemp: daily minimum air temperature
 - heat: heating degree days

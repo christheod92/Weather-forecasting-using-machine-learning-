@@ -1,11 +1,11 @@
 ## Weather forecasting using machine learning 
 
 **Dataset Information**
-
+======
 We use and compare various different methods for weather forecasting on meteo dataset. The training and test datasets are expected to be csv files. Please note that there are not csv headers in both training and test datasets.
 
 **Data Description**
-
+======
 Dataset: athens_09-16
 
 - month: [1-12]
@@ -31,7 +31,7 @@ Dataset: athens_2017
 Data Source: Greece, Athens, meteo.gr, 2009-2016
 
 **Machine learning methods**
-
+======
 1.  Predicted variable: Daily maximum air temperature (maxtemp)
     - Machine learning model: Multiple linear regression, Random Forest
     - Evaluation Metrics: Root mean square error
@@ -46,7 +46,7 @@ Data Source: Greece, Athens, meteo.gr, 2009-2016
     
     
 **Requirements**
-
+======
 There are some general library requirements for the project. These requirements are as follows.
 - nltk
 - numpy

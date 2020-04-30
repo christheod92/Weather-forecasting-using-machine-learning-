@@ -43,4 +43,21 @@ Data Source: Greece, Athens, meteo.gr, 2009-2016
     
     
 
+There are some general library requirements for the project. These requirements are as follows.
+- nltk
+- numpy
+- matplotlib.pyplot 
+- (math) sqrt
+- pandas 
+- scipy
+- pearsonr
+- seaborn 
+- (sklearn.model_selection)  train_test_split
+- (sklearn.metrics) mean_squared_error
+- (scikit-learn) linear_model, train_test_split
+- (sklearn.ensemble) RandomForestRegressor
+- (sklearn.naive_bayes) GaussianNB
+- (sklearn.metrics) accuracy_score
+- (sklearn.svm) SVC
 
+Note: It is recommended to use Anaconda distribution of Python.

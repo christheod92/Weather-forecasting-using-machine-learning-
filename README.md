@@ -1,4 +1,4 @@
-## Weather-forecasting-using-machine-learning-
+## Weather forecasting using machine learning 
 
 **Dataset Information**
 

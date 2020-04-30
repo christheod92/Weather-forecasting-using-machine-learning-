@@ -1,5 +1,8 @@
 ## Weather-forecasting-using-machine-learning-
 
+**Dataset Information**
+
+We use and compare various different methods for weather forecasting on meteo dataset. The training and test datasets are expected to be csv files. Please note that there are not csv headers in both training and test datasets.
 
 **Data Description**
 

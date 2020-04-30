@@ -38,7 +38,7 @@ Data Source: Greece, Athens, meteo.gr, 2009-2016
     - Evaluation Metrics: Root mean square error
     
 3.  Classification in autumn, winter, spring, summer
-    - Machine learning model: Gaussian process, SVM
+    - Machine learning model: Gaussian process, SVC
     - Evaluation Metrics: Accuracy
     
     
